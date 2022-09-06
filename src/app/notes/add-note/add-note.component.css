@@ -1,0 +1,10 @@
+.alert {
+    color: red;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  input.ng-invalid.ng-touched,
+  textarea.ng-invalid.ng-touched{
+    border: 1px solid red;
+  }
